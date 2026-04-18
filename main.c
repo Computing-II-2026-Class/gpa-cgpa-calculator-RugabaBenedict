@@ -68,7 +68,7 @@ int main(){
     int marks[16] = {S11, S12, S13, S14, S15, S16, S17, S18,S21, S22, S23, S24, S25, S26, S27, S28};
     for(int i = 0; i<(sizeof(marks)/sizeof(marks[0]));i++){
         if(marks[i] < 0 || marks[i] > 100){
-            printf("ONE OF YOUR VALUES, %d IS INVALID", marks[i]);
+            printf("Invalid score entered");
             exit(1);
         }
     }
