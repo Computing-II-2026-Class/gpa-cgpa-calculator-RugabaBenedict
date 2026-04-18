@@ -4,9 +4,7 @@ Registration Number: 25/U/BIE/01417/PE
 */
 
 #include <stdio.h>
-
-int main(void) {
-    #include <stdlib.h>
+#include <stdlib.h>
 int main(){
 
     int S11, S12, S13, S14, S15, S16, S17, S18;
