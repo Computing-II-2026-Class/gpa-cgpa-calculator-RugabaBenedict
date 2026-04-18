@@ -80,30 +80,8 @@ int main(){
     float C11=4,C12=3,C13=3,C14=3,C15=3,C16=3,C17=2,C18=3;
     float C21=4,C22=3,C23=3,C24=3,C25=3,C26=3,C27=3,C28=3;
 
-    printf("-------THE CREDIT UNTIS-------\n");
-    printf("SEMESTER I\n");
-    printf("TEMB 1101: %.1f \n", C11);
-    printf("TEMB 1102: %.1f\n", C12);
-    printf("TEMB 1103: %.1f\n", C13);
-    printf("TEMB 1104: %.1f \n", C14);
-    printf("TEMB 1105: %.1f \n", C15);
-    printf("TEMB 1106: %.1f\n", C16);
-    printf("TEMB 1107: %.1f \n", C17);
-    printf("TEMB 1108: %.1f\n", C18);
-    printf("SEMESTER II\n");
-    printf("TEMB 1201: %.1f\n", C21);
-    printf("TEMB 1202: %.1f\n", C22);
-    printf("TEMB 1203: %.1f\n", C23);
-    printf("TEMB 1204: %.1f\n", C24);
-    printf("TEMB 1205: %.1f\n", C25);
-    printf("TEMB 1206: %.1f\n", C26);
-    printf("TEMB 1207: %.1f\n", C27);
-    printf("TEMB 1208: %.1f\n", C28);
-
-
-
-
-
+    
+    
     //GRADE AND GRADE POINT
     printf("------GRADE AND GRADE POINT SEMESTER ONE------\n");
     
