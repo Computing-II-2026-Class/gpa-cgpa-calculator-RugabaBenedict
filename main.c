@@ -317,8 +317,8 @@ int main(){
     printf("\n");
     printf("\n");
     printf("-----YOUR FINAL REPORT-----\n");
-    printf("SEMESTER I GPA: %.2f\n", gpa1);
-    printf("SEMESTER II GPA: %.2f\n", gpa2);
+    printf("Semester I GPA: %.2f\n", gpa1);
+    printf("Semester II GPA: %.2f\n", gpa2);
     printf("CGPA: %.2f\n", cgpa);
      if (cgpa>4.40){printf("CLASSIFICATION: FIRST CLASS\n");
     }else if (cgpa>3.60){printf("CLASSIFICATION: SECOND CLASS UPPER\n");
