@@ -313,10 +313,8 @@ int main(){
 
     //REPORT
     
-    printf("\n");
-    printf("\n");
-    printf("\n");
-    printf("-----YOUR FINAL REPORT-----\n");
+   
+    
     printf("Semester I GPA: %.2f\n", gpa1);
     printf("Semester II GPA: %.2f\n", gpa2);
     printf("CGPA: %.2f\n", cgpa);
