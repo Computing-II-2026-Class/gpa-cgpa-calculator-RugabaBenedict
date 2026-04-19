@@ -5,14 +5,9 @@ Registration Number: 25/U/BIE/01417/PE
 
 #include <stdio.h>
 #include <stdlib.h>
-int main(){
+int main() {
+    int S11, S12, S13, S14, S15, S16, S17, S18, S21, S22, S23, S24, S25, S26, S27, S28;
 
-    int S11, S12, S13, S14, S15, S16, S17, S18;
-    int S21, S22, S23, S24, S25, S26, S27, S28;
-
-    printf ("SEMESTER ONE");
-    printf("\n");
-    
     printf("TEMB 1101 ");
     scanf("%d", &S11);
     
@@ -37,8 +32,6 @@ int main(){
     printf("TEMB 1108 ");
     scanf("%d", &S18);
 
-    printf("SEMESTER 2");
-    printf("\n");
 
     printf("TEMB 1201 ");
     scanf("%d", &S21);
