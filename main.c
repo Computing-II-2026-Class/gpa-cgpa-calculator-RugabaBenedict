@@ -13,55 +13,55 @@ int main(){
     printf ("SEMESTER ONE");
     printf("\n");
     
-    printf("TEMB 1101: ");
+    printf("TEMB 1101 ");
     scanf("%d", &S11);
     
-    printf("TEMB 1102: ");
+    printf("TEMB 1102 ");
     scanf("%d", &S12);
 
-    printf("TEMB 1103: ");
+    printf("TEMB 1103 ");
     scanf("%d", &S13);
 
-    printf("TEMB 1104: ");
+    printf("TEMB 1104 ");
     scanf("%d", &S14);
 
-    printf("TEMB 1105: ");
+    printf("TEMB 1105 ");
     scanf("%d", &S15);
 
     printf("TEMB 1106: ");
     scanf("%d", &S16);
 
-    printf("TEMB 1107: ");
+    printf("TEMB 1107 ");
     scanf("%d", &S17);
 
-    printf("TEMB 1108: ");
+    printf("TEMB 1108 ");
     scanf("%d", &S18);
 
     printf("SEMESTER 2");
     printf("\n");
 
-    printf("TEMB 1201: ");
+    printf("TEMB 1201 ");
     scanf("%d", &S21);
 
-    printf("TEMB 1202: ");
+    printf("TEMB 1202 ");
     scanf("%d", &S22);
 
-    printf("TEMB 1203: ");
+    printf("TEMB 1203 ");
     scanf("%d", &S23);
     
-    printf("TEMB 1204: ");
+    printf("TEMB 1204 ");
     scanf("%d", &S24);
 
-    printf("TEMB 1205: ");
+    printf("TEMB 1205 ");
     scanf("%d", &S25);
 
-    printf("TEMB 1206: ");
+    printf("TEMB 1206 ");
     scanf("%d", &S26);
 
-    printf("TEMB 1207: ");
+    printf("TEMB 1207 ");
     scanf("%d", &S27);
 
-    printf("TEMB 1208: ");
+    printf("TEMB 1208 ");
     scanf("%d", &S28);
 
     //termination
